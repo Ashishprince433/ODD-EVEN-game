@@ -1,1 +1,1 @@
-# ODD-EVEN-game just for Fun
+# ODD-EVEN-GAME
